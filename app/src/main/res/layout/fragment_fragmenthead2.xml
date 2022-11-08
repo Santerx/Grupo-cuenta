@@ -5,23 +5,23 @@
     android:layout_width="match_parent"
     android:background="@color/colorsecondary"
     android:layout_height="match_parent"
-    tools:context=".FragmentAzul">
+    tools:context=".Fragmenthead2">
 
     <!-- TODO: Update blank fragment layout -->
 
     <TextView
-        android:id="@+id/micuenta"
+        android:id="@+id/editname"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="159dp"
+        android:layout_marginStart="140dp"
         android:layout_marginTop="10dp"
-        android:text="MI CUENTA"
+        android:text="EDITAR NOMBRE"
         android:textColor="@color/black"
         android:textSize="16sp"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
 
     <ImageButton
-        android:id="@+id/Backbutton"
+        android:id="@+id/Backbutton2"
         android:layout_width="40dp"
         android:background="@android:color/transparent"
         android:layout_height="30dp"
@@ -30,7 +30,7 @@
         android:src="@drawable/ic_arrow_back" />
 
     <ImageButton
-        android:id="@+id/Closebutton"
+        android:id="@+id/Closebutton2"
         android:layout_width="50dp"
         android:layout_height="30dp"
         android:layout_marginTop="5dp"

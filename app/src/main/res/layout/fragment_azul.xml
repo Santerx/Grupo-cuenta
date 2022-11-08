@@ -21,18 +21,18 @@
         android:id="@+id/tv_Username"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="142dp"
+        android:layout_marginStart="136dp"
         android:layout_marginTop="130dp"
         android:text="Usuario"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         android:textColor="@color/black"
-        android:textSize="16sp"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+        android:textSize="16sp" />
 
     <TextView
         android:id="@+id/tv_Useremail"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="105dp"
+        android:layout_marginStart="83dp"
         android:layout_marginTop="155dp"
         android:textSize="16sp"
         android:textColor="@color/black"

@@ -3,6 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/PC/Downloads/Grupo-cuenta/app/src/main/res/drawable/btn_redondeado_while.xml" value="0.1955" />
+        <entry key="..\:/Users/PC/Downloads/Grupo-cuenta/app/src/main/res/drawable/inputs.xml" value="0.1955" />
+        <entry key="..\:/Users/PC/Downloads/Grupo-cuenta/app/src/main/res/layout/activity_datos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/PC/Downloads/Grupo-cuenta/app/src/main/res/layout/activity_editname.xml" value="0.25" />
+        <entry key="..\:/Users/PC/Downloads/Grupo-cuenta/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/PC/Downloads/Grupo-cuenta/app/src/main/res/layout/activity_maps.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/PC/Downloads/Grupo-cuenta/app/src/main/res/layout/activity_micuenta.xml" value="0.33" />
+        <entry key="..\:/Users/PC/Downloads/Grupo-cuenta/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/PC/Downloads/Grupo-cuenta/app/src/main/res/layout/app_toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/PC/Downloads/Grupo-cuenta/app/src/main/res/layout/custom_alert_1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/PC/Downloads/Grupo-cuenta/app/src/main/res/layout/custom_alert_2.xml" value="0.33" />
+        <entry key="..\:/Users/PC/Downloads/Grupo-cuenta/app/src/main/res/layout/fragment_azul.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/PC/Downloads/Grupo-cuenta/app/src/main/res/layout/fragment_fragmenthead2.xml" value="0.33" />
+        <entry key="..\:/Users/PC/Downloads/Grupo-cuenta/app/src/main/res/layout/fragment_head.xml" value="0.33" />
+        <entry key="..\:/Users/PC/Downloads/Grupo-cuenta/app/src/main/res/menu/nav_menu.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/PC/Downloads/avances_grupo2_sprint3-main/app/src/main/res/layout/activity_datos.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/PC/Downloads/avances_grupo2_sprint3-main/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/PC/Downloads/avances_grupo2_sprint3-main/app/src/main/res/layout/activity_maps.xml" value="0.20416666666666666" />
