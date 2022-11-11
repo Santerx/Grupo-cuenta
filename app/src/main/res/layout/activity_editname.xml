@@ -22,7 +22,7 @@
     <fragment
         android:id="@+id/frag_head2"
         android:name="com.example.myparkea.Fragmenthead2"
-        android:layout_width="match_parent"
+        android:layout_width="0dp"
         android:layout_height="48dp"
         android:layout_weight="1"
         tools:layout="@layout/fragment_fragmenthead2" />
@@ -30,7 +30,7 @@
     </LinearLayout>
 
     <EditText
-        android:id="@+id/textView2"
+        android:id="@+id/textUpdates"
         android:layout_width="match_parent"
         android:layout_marginLeft="50dp"
         android:layout_marginRight="50dp"
@@ -44,16 +44,16 @@
         android:paddingRight="20dp"
         android:paddingBottom="10dp"
         android:textColorHint="#655C5C"
-        android:hint="Nuevo nombre" />
+        android:hint="@string/updateEdit" />
 
     <Button
-        android:id="@+id/GuardarMod"
+        android:id="@+id/UpdateBoton"
         android:layout_marginTop="35dp"
         android:layout_width="match_parent"
         android:layout_marginRight="30dp"
         android:layout_marginLeft="30dp"
         android:layout_height="wrap_content"
         android:background="@drawable/btn_redondeado_while"
-        android:text="Guardar Nombre" />
+        android:text="@string/updateBoton" />
 
 </LinearLayout>

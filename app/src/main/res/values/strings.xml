@@ -61,4 +61,7 @@
     <string name="CerrarSesion">Cerrar Sesión</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="updateEdit">Nuevo nombre</string>
+    <string name="updateBoton">Guardar Nombre</string>
 </resources>

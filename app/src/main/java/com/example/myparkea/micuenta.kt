@@ -38,7 +38,8 @@ class micuenta : AppCompatActivity(){
         fragmentHead = FragmentHead()
         val headerName : TextView = findViewById(R.id.tv_Username)
         val headerEmail : TextView = findViewById(R.id.tv_Useremail)
-
+        val headerPhoto : CircleImageView = findViewById(R.id.tv_Userphoto)
+        var provideer = ""
 
         val user = Firebase.auth.currentUser
         user.let {
@@ -46,6 +47,9 @@ class micuenta : AppCompatActivity(){
             db.collection("users").document(email).get().addOnSuccessListener {
                 headerName.text = it.get("Nombre") as String
                 headerEmail.text = email
+                if(provideer == "google.com") {
+                    Picasso.with(this).load(FirebaseAuth.getInstance().currentUser!!.photoUrl.toString()).fit().into(headerPhoto)
+                }
             }
         }
         click_botonEdit()
